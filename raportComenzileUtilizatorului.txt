@@ -1,0 +1,7 @@
+adauga_reteta
+finalizeaza_comanda
+adauga_reteta
+finalizeaza_comanda
+adauga_reteta
+finalizeaza_comanda
+paraseste_restaurant

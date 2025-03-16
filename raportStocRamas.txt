@@ -1,0 +1,16 @@
+15
+aluat 600
+cascaval 600
+sos 1100
+carne 1600
+sosBurger 460
+chifla 48
+oua 200
+lapte 2000
+faina 3000
+cacao 500
+dulceata 1000
+branza 2000
+zahar 2040
+cafea 990
+vin 1000

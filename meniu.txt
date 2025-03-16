@@ -1,0 +1,64 @@
+8
+
+Margherita
+25
+3
+aluat 100
+sos 100
+cascaval 100
+ 
+Pepperoni
+30
+4
+aluat 100
+salam 40
+cascaval 100
+sos 100
+ 
+Burger
+25
+3
+sosBurger 20
+carne 200
+chifla 1
+ 
+Negresa
+19
+5
+oua 2
+lapte 200
+faina 200
+cacao 15
+zahar 50
+ 
+Clatite
+22
+5
+oua 2
+lapte 200
+faina 200
+dulceata 50
+zahar 50
+ 
+Papanasi
+30
+6
+oua 2
+lapte 200
+faina 200
+dulceata 50
+branza 80
+zahar 50
+ 
+Cafea
+5
+2
+cafea 10
+zahar 10
+ 
+Vin_fiert
+10
+2
+vin 200
+zahar 10
+ 
